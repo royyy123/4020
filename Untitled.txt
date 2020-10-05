@@ -1,0 +1,3 @@
+String interpolation:#19
+	[value]=" xxx"
+(Click)="onAddPost()"
